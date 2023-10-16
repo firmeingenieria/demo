@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f0f0f0; /* Cambiado a un gris más oscuro */
+}
+
+header {
+    background-color: #ffffff; /* Mantenido blanco */
+    color: #333333; /* Texto en la barra superior */
+    padding: 20px 0;
+    text-align: center;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: inline-block;
+    margin-top: 20px; /* Espacio entre el logo y la navegación */
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333333; /* Color de texto en la navegación */
+    font-weight: bold;
+}
+
+main {
+    padding: 40px;
+    background-color: #dcdcdc; /* Cambiado el color del cuerpo a un gris más oscuro */
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #333333;
+    font-size: 1.5em;
+}
+
+p {
+    color: #555555;
+}
+
+footer {
+    background-color: #ffffff; /* Mantenido blanco */
+    color: #333333; /* Texto en la barra inferior */
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
