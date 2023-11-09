@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenemos las mejores &lt;span&gt;soluciones&lt;/span&gt; para cada uno de tus &lt;span&gt;proyectos&lt;/span&gt; on FIRME INGENIERÍA</title>
+    <link>https://www.firmeingenieria.com/portfolio/</link>
+    <description>Recent content in Tenemos las mejores &lt;span&gt;soluciones&lt;/span&gt; para cada uno de tus &lt;span&gt;proyectos&lt;/span&gt; on FIRME INGENIERÍA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
+    <atom:link href="https://www.firmeingenieria.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 1</title>
+      <link>https://www.firmeingenieria.com/portfolio/proyecto1/</link>
+      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      <guid>https://www.firmeingenieria.com/portfolio/proyecto1/</guid>
+      <description>Descripción del “Proyecto 1”.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin turpis neque, sollicitudin quis felis ac, bibendum dapibus lorem. Donec ac ornare nunc, id molestie purus.</description>
+    </item>
+    <item>
+      <title>Proyecto 2</title>
+      <link>https://www.firmeingenieria.com/portfolio/proyecto2/</link>
+      <pubDate>Sun, 22 Dec 2019 15:58:10 +0600</pubDate>
+      <guid>https://www.firmeingenieria.com/portfolio/proyecto2/</guid>
+      <description>Descripción del “Proyecto 2”.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin turpis neque, sollicitudin quis felis ac, bibendum dapibus lorem. Donec ac ornare nunc, id molestie purus.</description>
+    </item>
+    <item>
+      <title>Proyecto 3</title>
+      <link>https://www.firmeingenieria.com/portfolio/proyecto3/</link>
+      <pubDate>Sat, 21 Dec 2019 20:56:42 +0600</pubDate>
+      <guid>https://www.firmeingenieria.com/portfolio/proyecto3/</guid>
+      <description>Descripción del “Proyecto 3”.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin turpis neque, sollicitudin quis felis ac, bibendum dapibus lorem. Donec ac ornare nunc, id molestie purus.</description>
+    </item>
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ languageCode  = "es-CO"
 title         = "FIRME INGENIERÍA"
 theme         = "roxo-hugo"
 summarylength = 25
+publishDir = "docs"
 
 # Site Menus
 [menu]
