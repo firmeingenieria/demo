@@ -1,0 +1,15 @@
+enable  : true
+title   : "OPINIONES DE NUESTROS CLIENTES"
+#subtitle: "What clients says about our services."
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Nombre Apellido"
+    company_position: "Director, Empresa 1"
+    quote : > 
+            "Mensaje" 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Nombre Apellido"
+    company_position: "Director, Empresa 2"
+    quote : > 
+            "Mensaje" 

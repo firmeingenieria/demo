@@ -1,0 +1,11 @@
+enable : true
+# heading : "THE PROOF IS IN THE PUDDING!"
+counter_item: 
+  - title: "Clientes"
+    number: "50"
+
+  - title: "Proyectos completados"
+    number: "50"
+
+  - title: "Obras"
+    number: "50"
